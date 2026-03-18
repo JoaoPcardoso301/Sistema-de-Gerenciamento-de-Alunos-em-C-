@@ -1,7 +1,5 @@
 # Sistema-de-Gerenciamento-de-Alunos-em-C-
 
-# Sistema de Cadastro e Avaliação de Alunos
-
 ## Sobre o projeto
 Esse programa foi feito em C++.
 Permite cadastrar alunos e analisar o desempenho deles com base nas notas.
